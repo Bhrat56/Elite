@@ -1,2 +1,2 @@
 # Elite
-this repo is used to create the elite website project
+this Project is used to Make the Elite Digital Enginnering website project
