@@ -556,7 +556,7 @@ footer .container .col-md-6 img {
 /* ============================= services css ============================= */
 /* Hero Section */
 #services-main .hero-section {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../assets/images/service_banner.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../assets/images/service_banner.webp');
     /* Added linear-gradient for overlay and updated image path */
     background-size: cover;
     /* Ensures the image covers the entire area */
@@ -754,7 +754,7 @@ footer .container .col-md-6 img {
 /* =============================== about css =============================== */
 
 #about-main .about-header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../assets/images/about-banner.avif');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../assets/images/about-banner.webp');
     /* Added linear-gradient for overlay and updated image path */
     background-size: cover;
     /* Ensures the image covers the entire area */
@@ -861,7 +861,7 @@ footer .container .col-md-6 img {
 
 /* Hero Section */
 #carrer-main .carrer-section {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../assets/images/carrer-banner.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../assets/images/carrer-banner.webp');
     /* Added linear-gradient for overlay and updated image path */
     background-size: cover;
     /* Ensures the image covers the entire area */
@@ -1023,7 +1023,7 @@ footer .container .col-md-6 img {
 /* ======================== portfolio css ======================== */
 
 #portfolio-main .portfolio-section {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../assets/images/portfolio-banner.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../assets/images/portfolio-banner.webp');
     /* Added linear-gradient for overlay and updated image path */
     background-size: cover;
     /* Ensures the image covers the entire area */
@@ -1314,7 +1314,7 @@ footer .container .col-md-6 img {
 
 /* Hero Section */
 #contact-main .contact-section {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../assets/images/contact-banner.jpeg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../assets/images/contact-banner.webp');
     /* Added linear-gradient for overlay and updated image path */
     background-size: cover;
     /* Ensures the image covers the entire area */
